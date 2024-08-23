@@ -1,0 +1,8 @@
+Color Code Used
+
+1. Black - #000000
+2. White - #FFFFFF
+3. Green - #3F8E00
+4. Grey  - #1B1B1B
+5. Light Grey - #9C9C9C
+6. Pale Grey  - #F8F8F8

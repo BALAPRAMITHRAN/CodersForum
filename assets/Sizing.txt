@@ -1,0 +1,21 @@
+Sizing
+
+
+Font 
+
+h1 - 44px
+h2 - 34px
+h3 - 24px
+p  - 14px
+
+
+Button 
+
+Large  - 300px X 60px
+Medium - 350px X 50px
+Small  - 200px X 40px
+
+
+Images 
+
+Aspect Ratio must be maintained! 
